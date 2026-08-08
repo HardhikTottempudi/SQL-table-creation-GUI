@@ -90,7 +90,6 @@ This project is open source and available for educational purposes.
 
 **Hardhik Tottempudi**
 - GitHub: [@HardhikTottempudi](https://github.com/HardhikTottempudi)
-- Portfolio: [hardhiktottempudi.com](https://hardhiktottempudi.com/)
 
 ---
 
